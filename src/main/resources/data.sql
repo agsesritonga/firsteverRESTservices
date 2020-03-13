@@ -1,0 +1,15 @@
+insert into home_page_menu values (1, 'Promo', 1, 'UserA');
+insert into home_page_menu values (2, 'Category', 2, 'UserA');
+insert into home_page_menu values (3, 'FlashSale', 3, 'UserA');
+insert into home_page_menu values (4, 'History', 4, 'UserA');
+insert into home_page_menu values (5, 'News', 5, 'UserA');
+insert into home_page_menu values (6, 'Promo', 1, 'UserB');
+insert into home_page_menu values (7, 'News', 2, 'UserB');
+insert into home_page_menu values (8, 'FlashSale', 3, 'UserB');
+insert into home_page_menu values (9, 'Category', 4, 'UserB');
+insert into home_page_menu values (10, 'History', 5, 'UserB');
+insert into home_page_menu values (11, 'Promo', 1, 'UserC');
+insert into home_page_menu values (12, 'FlashSale', 2, 'UserC');
+insert into home_page_menu values (13, 'Category', 3, 'UserC');
+insert into home_page_menu values (14, 'News', 4, 'UserC');
+insert into home_page_menu values (15, 'History', 5, 'UserC');
